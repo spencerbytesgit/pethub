@@ -80,5 +80,21 @@ a:hover {
 	text-decoration: none;
 }
 
+.contact {
+	margin-left: 30px;
+	margin-top: 50px;
+}
 
+.contacttx {
+	margin-top: 25px;
+	font-size: 14px;
+}
 
+.contactform {
+	margin-top: 70px;
+	
+}
+
+.contactrow {
+	margin-left: 40px;
+}
